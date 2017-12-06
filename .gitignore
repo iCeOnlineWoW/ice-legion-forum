@@ -1,12 +1,12 @@
-images/ikony/misc/Thumbs.db
-images/ikony/smile/Thumbs.db
-images/smajlici/Thumbs.db
+images/icons/misc/Thumbs.db
+images/icons/smile/Thumbs.db
+images/smilies/Thumbs.db
 images/upload_icons/Thumbs.db
 files/*
 ! files/.htaccess
 ! files/index.htm
-images/avatary/nahrane/*
-! images/avatary/nahrane/.htaccess
-! images/avatary/nahrane/index.htm
+images/avatars/upload/*
+! images/avatars/upload/.htaccess
+! images/avatars/upload/index.htm
 cache/production/*
 cache/installer/*
